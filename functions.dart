@@ -1,4 +1,3 @@
-import 'dart:io';
 
 void main() {
   reverseInteger(234);
